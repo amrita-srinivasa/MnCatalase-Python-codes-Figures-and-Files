@@ -8,3 +8,4 @@ The MnCatalaseCOMMetalBindingSite.py calculates COM of catalytic sites using the
 The MnCatalase_InterfaceGeometry.py uses NACCESS data to calculte BSA, Interface Atoms, Resiues and Local Atomic Density.
 The Protparam MnCatalase.py tries to use protein sequence data to obtain GRAVy and other hydrophobicity data.
 The ShortestDistanceBetweenActivitySiteCoMandInterface.py caculates the shortest distance between catalytic site CoM and Interfaces
+All figures are provided under folder /figures and supplementary figures have been provided under /figures/supplemantary
