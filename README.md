@@ -9,3 +9,4 @@ The MnCatalase_InterfaceGeometry.py uses NACCESS data to calculte BSA, Interface
 The Protparam MnCatalase.py tries to use protein sequence data to obtain GRAVy and other hydrophobicity data.
 The ShortestDistanceBetweenActivitySiteCoMandInterface.py caculates the shortest distance between catalytic site CoM and Interfaces
 All figures are provided under folder /figures and supplementary figures have been provided under /figures/supplemantary
+All excel files used for preparing graphs are placed under files folder
